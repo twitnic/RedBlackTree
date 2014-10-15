@@ -12,7 +12,7 @@ Fach: Algorithmen und Datenstrukturen
 
 ## Präsentation
 
-[Link zur Präsi:](http://prezi.com/zsza7otdgiyw/rot-schwarz-baume-20/)
+[Link zur Präsi](http://prezi.com/zsza7otdgiyw/rot-schwarz-baume-20/)
 
 ## Dateien
 
